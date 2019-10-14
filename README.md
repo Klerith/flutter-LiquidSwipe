@@ -11,3 +11,8 @@ Descargar y reconstruir los paquetes del proyecto. Eso es todo!
 
 
 [Curso de Flutter Completo](https://fernando-herrera.com/#/curso/flutter)
+
+
+### Créditos al autor
+
+[Flutter Awesome](https://flutterawesome.com/a-flutter-based-liquid-swipe/)
