@@ -1,16 +1,13 @@
 # liquid_swiper
 
-A new Flutter project.
+Un proyecto de Flutter
 
-## Getting Started
+## Instalación y ejecución
 
-This project is a starting point for a Flutter application.
+Descargar y reconstruir los paquetes del proyecto. Eso es todo!
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Enlace del video?
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+[Curso de Flutter Completo](https://fernando-herrera.com/#/curso/flutter)
